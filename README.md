@@ -19,13 +19,11 @@
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone (https://github.com/Anu374/portfolio-loader.git)
 ```
 
 - Go to the directory
 - Run the index.html file
 - Start Typing!
 
-<h3> Screenshots </h3>
-<img src = "https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/Virtual%20Keyboard/snap.PNG" />
-<br>
+
